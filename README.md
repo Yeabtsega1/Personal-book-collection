@@ -1,4 +1,4 @@
-# Personal Bookshelf
+# Personal Book Collection
 
 A user-friendly React application designed to help users search for books using the Open Library API and maintain a personal bookshelf using localStorage.
 
